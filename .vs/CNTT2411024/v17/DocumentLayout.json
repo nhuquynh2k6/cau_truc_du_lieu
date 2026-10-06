@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNTT2411024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39439ED5-928A-445D-AFD7-1F08BD23B300}|CNTT2411024\\CNTT2411024.csproj|d:\\cntt2411024\\cntt2411024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39439ED5-928A-445D-AFD7-1F08BD23B300}|CNTT2411024\\CNTT2411024.csproj|solutionrelative:cntt2411024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CNTT2411024\\CNTT2411024\\Program.cs",
+              "RelativeDocumentMoniker": "CNTT2411024\\Program.cs",
+              "ToolTip": "D:\\CNTT2411024\\CNTT2411024\\Program.cs",
+              "RelativeToolTip": "CNTT2411024\\Program.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:01:24.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
